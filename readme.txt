@@ -1,4 +1,5 @@
 Welcome to MyProject!
 
-Author : shubham jain
+
+Author : shubham sohanlal jain
 Twitter: @shubhamjain
